@@ -23,3 +23,13 @@ PGDATABASE=naguara_db por PGDATABASE="el nombre de tu BD"
 8- para entrar en el proyecto pon en tu navegador http://localhost:3000
 
 9- El usuario para entrar seria user= admin password= 123456
+
+Este repositorio es un **fork** del proyecto colaborativo **[Naguara_Proyect](https://github.com/FDmaster711/Naguara_Proyect)**, desarrollado en equipo para digitalizar y optimizar la gestión administrativa, inventario y punto de venta (POS) de una pollera local.
+
+### 💻 Mi aporte en el proyecto — Jesús Camacho ([@JesusCamacho01](https://github.com/JesusCamacho01))
+
+Encargado del **desarrollo inicial y diseño Frontend / UI** del sistema durante la primera fase:
+
+- **Arquitectura base:** Creación de la estructura inicial de carpetas, rutas y organización modular del proyecto.
+- **Diseño de Interfaces de Usuario (Vistas):** Maquetación y desarrollo visual de la mayoría de los módulos operativos del sistema (a excepción de 3 módulos finales completados en la etapa posterior).
+- **Entrega e integración:** Empaquetado y entrega de la base funcional del frontend al equipo de desarrollo para la conexión con el backend, base de datos y culminación de vistas restantes.
